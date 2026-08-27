@@ -1,0 +1,585 @@
+{
+  "generated_at": "2026-08-28T05:41:40+08:00",
+  "source": {
+    "type": "x_list",
+    "name": "AI Article Tracker",
+    "url": "https://x.com/i/lists/2073005711613968852",
+    "list_id": "2073005711613968852"
+  },
+  "model": "mock",
+  "digest": {
+    "headline": "长文追踪",
+    "overview": "当前使用 mock 模式展示长文标题、内容概括和原链接。",
+    "items": [
+      {
+        "article_id": "https://x.com/gdb/status/2093021551855812842",
+        "title": "An open letter for a global surge in cyber defense, signed by over 100 organizations including Anthropic, AWS, Google, Microsoft, OpenAI, and Oracle.",
+        "summary": "",
+        "category": "工作流",
+        "article_url": "https://x.com/gdb/status/2093021551855812842",
+        "article_published_at": "2026-08-27T17:03:19.000Z"
+      },
+      {
+        "article_id": "0xcodez::how-to-build-a-team-of-ai-agents-that-actually-work-together-in-8-steps-full-course",
+        "title": "How to Build a team of AI Agents that actually work together in 8 Steps (Full-course)",
+        "summary": "Most people who say they run a team of AI agents run five chat windows. Same model, five tabs, and one human copy-pastin",
+        "category": "工作流",
+        "article_url": "https://x.com/0xCodez/status/2092647745802617186",
+        "article_published_at": "2026-08-27T00:00:00+08:00"
+      },
+      {
+        "article_id": "https://x.com/0xMovez/status/2092649194171289633",
+        "title": "another banger article by Codez !",
+        "summary": "Thx for the share mate, its time to build my @raft_hq agents team !",
+        "category": "工作流",
+        "article_url": "https://x.com/0xMovez/status/2092649194171289633",
+        "article_published_at": "2026-08-26T16:23:42.000Z"
+      },
+      {
+        "article_id": "https://x.com/RohOnChain/status/2092626965224415557",
+        "title": "Grok Bot is the best AI agent right now It gives you an army of agents that can do work for you 24/7 If you set it up correctly, you gain super powers In this a...",
+        "summary": "rticle, I cover how to turn Grok Bot into your own Bloomberg Terminal",
+        "category": "工作流",
+        "article_url": "https://x.com/RohOnChain/status/2092626965224415557",
+        "article_published_at": "2026-08-26T14:55:22.000Z"
+      },
+      {
+        "article_id": "rohonchain::how-to-turn-grok-bot-into-your-own-bloomberg-terminal",
+        "title": "How to Turn Grok Bot Into Your Own Bloomberg Terminal",
+        "summary": "I will break down exactly how to turn your Grok Bot setup into a personal Bloomberg Terminal that runs 24/7 for you. Let",
+        "category": "工作流",
+        "article_url": "https://x.com/RohOnChain/status/2092626965224415557",
+        "article_published_at": "2026-08-26T00:00:00+08:00"
+      },
+      {
+        "article_id": "https://x.com/RohOnChain/status/2091518613861826677",
+        "title": "Grok Bot is the best AI agent right now It gives you an army of agents that can do work for you 24/7 If you set it up correctly, you gain super powers In this a...",
+        "summary": "rticle, I cover how to build a one-person AI hedge fund on Grok Bot",
+        "category": "工作流",
+        "article_url": "https://x.com/RohOnChain/status/2091518613861826677",
+        "article_published_at": "2026-08-23T13:31:10.000Z"
+      },
+      {
+        "article_id": "rohonchain::how-to-build-a-one-person-ai-hedge-fund-using-grok-bot",
+        "title": "How to Build a One-Person AI Hedge Fund Using Grok Bot",
+        "summary": "I will break down exactly how to build a one-person AI hedge fund that runs research, signals, execution and business op",
+        "category": "工作流",
+        "article_url": "https://x.com/RohOnChain/status/2091518613861826677",
+        "article_published_at": "2026-08-23T00:00:00+08:00"
+      },
+      {
+        "article_id": "https://x.com/RohOnChain/article/2090443377556996209",
+        "title": "Grok Bot is the best AI agent right now It gives you an army of agents that can do work for you 24/7 If you set it up correctly, you gain super powers In this a...",
+        "summary": "rticle, I cover how to build a self improving AI research desk that runs while you sleep",
+        "category": "工作流",
+        "article_url": "https://x.com/RohOnChain/article/2090443377556996209",
+        "article_published_at": "2026-08-20T14:18:34.000Z"
+      },
+      {
+        "article_id": "rohonchain::how-to-use-grok-bot-to-build-an-ai-hedge-fund-research-desk",
+        "title": "How to Use Grok Bot to Build an AI Hedge Fund Research Desk",
+        "summary": "I will break down how to build a hedge fund level quant research team using Grok Bot. Let's get straight to it. Bookmark",
+        "category": "工作流",
+        "article_url": "https://x.com/RohOnChain/status/2090443377556996209",
+        "article_published_at": "2026-08-20T00:00:00+08:00"
+      },
+      {
+        "article_id": "anatolikopadze::grok-bot-explained-running-agents-has-never-been-this-easy",
+        "title": "Grok Bot explained. Running agents has never been this easy.",
+        "summary": "This article covers everything you need to know about Grok Bot: what makes it such a breakthrough, why everyone is talki",
+        "category": "工作流",
+        "article_url": "https://x.com/AnatoliKopadze/status/2090418682534961283",
+        "article_published_at": "2026-08-20T00:00:00+08:00"
+      },
+      {
+        "article_id": "0xcodez::grok-bot-agents-how-to-automate-your-life-in-10-steps-full-tutorial-every-ai-tool-you-have-used-so-far-waits-for-you",
+        "title": "Grok Bot Agents: how to automate your life in 10 Steps (Full-tutorial) Every AI tool you have used so far waits for you.",
+        "summary": "You open it, you ask, it answers, you close it. The work still happens in your hands - the model just talks you through ",
+        "category": "工作流",
+        "article_url": "https://x.com/0xCodez/status/2089676836619878567",
+        "article_published_at": "2026-08-18T00:00:00+08:00"
+      },
+      {
+        "article_id": "0xcodez::ai-agent-engineer-in-2026-12-steps-roadmap-loops-graphs-evals-context-harness-full-course",
+        "title": "AI Agent Engineer in 2026: 12 steps roadmap - Loops, Graphs, Evals, Context, Harness (Full-Course)",
+        "summary": "This is the complete 12-step roadmap through the seven pillars that actually decide whether an agent works: context, too",
+        "category": "工作流",
+        "article_url": "https://x.com/0xCodez/status/2089393338977829278",
+        "article_published_at": "2026-08-18T00:00:00+08:00"
+      },
+      {
+        "article_id": "jensenhuang::securing-the-infrastructure-of-intelligence-land-power-and-shell-the-next-critical-resource-for-ai-factories",
+        "title": "Securing the Infrastructure of Intelligence Land, power and shell: The next critical resource for AI factories.",
+        "summary": "AI factories are the defining infrastructure of the AI era—where compute transforms energy and data into intelligence th",
+        "category": "工作流",
+        "article_url": "https://x.com/JensenHuang/status/2089331487342829862",
+        "article_published_at": "2026-08-17T00:00:00+08:00"
+      },
+      {
+        "article_id": "andrewyng::the-ai-engineering-skills-map-i-am-delighted-to-present-the-ai-engineering-skills-map",
+        "title": "The AI Engineering Skills Map I am delighted to present The AI Engineering Skills Map.",
+        "summary": "AI allows us to build software very differently today than in 2022, and everyone with the skills to take advantage of th",
+        "category": "工作流",
+        "article_url": "https://x.com/AndrewYNg/status/2088302050706686198",
+        "article_published_at": "2026-08-15T00:00:00+08:00"
+      },
+      {
+        "article_id": "0xrafy::mcp-the-11-step-guide-to-the-protocol-that-connects-agent-to-everything-before-usb-every-device-had-its-own-cable",
+        "title": "MCP: the 11-Step Guide to the Protocol That Connects Agent to Everything Before USB, every device had its own cable.",
+        "summary": "MCP is USB for AI agents. 400M+ monthly SDK downloads. 10,000+ servers. Adopted by every major AI lab. Before USB, every",
+        "category": "工作流",
+        "article_url": "https://x.com/0xRafy/status/2087909956754284865",
+        "article_published_at": "2026-08-13T00:00:00+08:00"
+      },
+      {
+        "article_id": "vasuman::ai-adoption-is-a-myth-you-re-already-in-the-top-1-of-ai-users",
+        "title": "AI Adoption is a Myth You’re already in the top 1% of AI users.",
+        "summary": "Yes, there’s a gap between you and the folks on the frontier. The crazy kids running 20 terminals simultaneously with a ",
+        "category": "工作流",
+        "article_url": "https://x.com/vasuman/status/2085806422072418632",
+        "article_published_at": "2026-08-08T00:00:00+08:00"
+      },
+      {
+        "article_id": "anatolikopadze::seedance-2-5-is-coming-soon-on-higgsfield",
+        "title": "Seedance 2.5 Is Coming Soon on Higgsfield.",
+        "summary": "Here's Everything You Need to Know. In this article I'll tell you absolutely everything you need to know about Seedance ",
+        "category": "工作流",
+        "article_url": "https://x.com/AnatoliKopadze/status/2085350363436118153",
+        "article_published_at": "2026-08-06T00:00:00+08:00"
+      },
+      {
+        "article_id": "mahaximus_::agents-loops-graphs-everything-you-need-to-know-in-one-place",
+        "title": "Agents, Loops, Graphs. Everything You Need to Know in One Place.",
+        "summary": "Most people use AI at one speed: ask, read, fix, ask again. It works. It's also the slowest way to do it. There is a fas",
+        "category": "工作流",
+        "article_url": "https://x.com/Mahaximus_/status/2085024744387092973",
+        "article_published_at": "2026-08-05T00:00:00+08:00"
+      },
+      {
+        "article_id": "0xrafy::loop-engineering-11-steps-from-prompting-to-loops-karpathy-pointed-an-agent-at-code-he-had-tuned-by-hand-for-two-decades",
+        "title": "Loop Engineering: 11 Steps From Prompting to Loops Karpathy pointed an agent at code he had tuned by hand for two decades. It ran 700 experiments in 2 days and found 20 improvements he missed.",
+        "summary": "This is how loops work. Follow my Substack to get fresh AI...",
+        "category": "工作流",
+        "article_url": "https://x.com/0xRafy/status/2084626957279318445",
+        "article_published_at": "2026-08-04T00:00:00+08:00"
+      },
+      {
+        "article_id": "https://x.com/0xCodez/status/2064374643729773029",
+        "title": "Thanks for an amazing article Codez !",
+        "summary": "",
+        "category": "工作流",
+        "article_url": "https://x.com/0xCodez/status/2064374643729773029",
+        "article_published_at": "2026-08-02T14:10:21.000Z"
+      },
+      {
+        "article_id": "0xdepressionn::harness-engineering-explained-what-it-is-why-your-agent-goes-off-the-rails-and-when-you-don-t-nee-agents-have-been-usabl",
+        "title": "Harness engineering explained: what it is, why your agent goes off the rails, and when you don't nee Agents have been usable for a year.",
+        "summary": "Most people running them every day are still fighting the same four failures, over and over. Not because it's complicate",
+        "category": "工作流",
+        "article_url": "https://x.com/0xDepressionn/status/2083915144652865733",
+        "article_published_at": "2026-08-02T00:00:00+08:00"
+      },
+      {
+        "article_id": "alexmashrabov::how-vertex-cgi-built-a-viral-nba-finals-campaign-with-higgsfield-vertex-cgi-a-studio-behind-campaigns-for-porsche-merced",
+        "title": "How Vertex CGI Built a Viral NBA Finals Campaign with Higgsfield Vertex CGI, a studio behind campaigns for Porsche, Mercedes, and Nike with more than 25 billion...",
+        "summary": "organic views across 1,200+ campaigns, used Higgsfield throughout a five day sprint to take the NBA...",
+        "category": "工作流",
+        "article_url": "https://x.com/alexmashrabov/status/2083305426796663040",
+        "article_published_at": "2026-08-01T00:00:00+08:00"
+      },
+      {
+        "article_id": "anatolikopadze::stop-switching-between-claude-gpt-and-grok",
+        "title": "Stop Switching Between Claude, GPT and Grok.",
+        "summary": "Run Them All at Once. What if I told you that AI inside a single chat can already do almost anything? Create a UGC video",
+        "category": "工作流",
+        "article_url": "https://x.com/AnatoliKopadze/status/2083153427777933733",
+        "article_published_at": "2026-07-31T00:00:00+08:00"
+      },
+      {
+        "article_id": "0xrafy::context-engineering-with-claude-the-11-step-guide-that-replaced-prompting-on-july-24-2026-anthropic-removed-over-80-of-c",
+        "title": "Context Engineering with Claude: the 11-Step Guide That Replaced Prompting On July 24, 2026, Anthropic removed over 80% of Claude Code's system prompt - 800 tok...",
+        "summary": "ens down to 164 - with zero drop on coding evaluations. The instructions were dead weight. The constraints were...",
+        "category": "工作流",
+        "article_url": "https://x.com/0xRafy/status/2082813532538634552",
+        "article_published_at": "2026-07-30T00:00:00+08:00"
+      },
+      {
+        "article_id": "0xcodez::how-to-become-a-forward-deployed-engineer-in-10-steps-785k-year-full-course-forward-deployed-engineer-went-from-a-palant",
+        "title": "How to become a Forward Deployed Engineer in 10 Steps: $785K / year (full-course) Forward Deployed Engineer went from a Palantir curiosity to the most-recruited role in AI in twelve months - postings up 729%.",
+        "summary": "This is the 10-step roadmap into it: what the job actually is, the stack...",
+        "category": "工作流",
+        "article_url": "https://x.com/0xCodez/status/2082468167935308098",
+        "article_published_at": "2026-07-29T00:00:00+08:00"
+      },
+      {
+        "article_id": "ruujss::the-only-way-you-could-actually-understand-the-trillion-dollar-equation",
+        "title": "The Only Way You Could Actually Understand The Trillion-Dollar Equation",
+        "summary": "I'm going to walk through the actual argument behind the equation that prices a $844.6 trillion derivatives market, and ",
+        "category": "工作流",
+        "article_url": "https://x.com/RuujSs/status/2082082962015973792",
+        "article_published_at": "2026-07-28T00:00:00+08:00"
+      },
+      {
+        "article_id": "0xcodez::context-engineering-with-claude-14-step-roadmap-from-0-to-context-architect-full-course",
+        "title": "Context Engineering with Claude: 14-step roadmap from 0 to context architect ( Full-course )",
+        "summary": "Most people who try to make Claude behave end up writing a longer file. Every surprise becomes a new rule, every rule a ",
+        "category": "工作流",
+        "article_url": "https://x.com/0xCodez/status/2081688702053396656",
+        "article_published_at": "2026-07-27T00:00:00+08:00"
+      },
+      {
+        "article_id": "https://x.com/0xCodez/status/2079165300625330317",
+        "title": "Thx bro.",
+        "summary": "You article is a great foundation to start with Graphs !",
+        "category": "工作流",
+        "article_url": "https://x.com/0xCodez/status/2079165300625330317",
+        "article_published_at": "2026-07-26T16:41:11.000Z"
+      },
+      {
+        "article_id": "trq212::the-new-rules-of-context-engineering-for-claude-5-models-i-ve-written-previously-about-how-to-best-prompt-the-newest-gen",
+        "title": "The new rules of context engineering for Claude 5 models I’ve written previously about how to best prompt the newest generation of Claude 5 models and work with...",
+        "summary": "them iteratively to discover what you want to build. But when you send a message to Claude, the...",
+        "category": "工作流",
+        "article_url": "https://x.com/trq212/status/2080710971228918066",
+        "article_published_at": "2026-07-25T00:00:00+08:00"
+      },
+      {
+        "article_id": "https://x.com/trq212/status/2080710971228918066",
+        "title": "We removed ~80% of the Claude Code system prompt for our newest models, this is what we've learned about writing system prompts, skills and Claude.MDs for them.",
+        "summary": "",
+        "category": "工作流",
+        "article_url": "https://x.com/trq212/status/2080710971228918066",
+        "article_published_at": "2026-07-24T17:45:27.000Z"
+      },
+      {
+        "article_id": "nickbaumann_::i-ve-become-chatgpt-work-web-pilled-a-lot-of-the-conversation-i-ve-seen-about-chatgpt-work-has-focused-on-how-it-compare",
+        "title": "I’ve Become ChatGPT Work (Web)-Pilled A lot of the conversation I’ve seen about ChatGPT Work has focused on how it compares to Codex in the desktop app and whet...",
+        "summary": "her it’s just the version of Codex for people who want to make slide decks and...",
+        "category": "工作流",
+        "article_url": "https://x.com/nickbaumann_/status/2080348892294721803",
+        "article_published_at": "2026-07-24T00:00:00+08:00"
+      },
+      {
+        "article_id": "anatolikopadze::graph-engineering-explained-what-it-is-when-to-use-it-and-when-not-to",
+        "title": "Graph Engineering explained: what it is, when to use it and when not to",
+        "summary": "Most people are using AI at 5 to 10% of what it can actually do. There is a faster way, and it is bigger than it looks. ",
+        "category": "工作流",
+        "article_url": "https://x.com/AnatoliKopadze/status/2080668775796314331",
+        "article_published_at": "2026-07-24T00:00:00+08:00"
+      },
+      {
+        "article_id": "rohonchain::how-to-use-graph-engineering-to-build-a-multi-factor-alpha-model-i-am-going-to-break-down-exactly-how-to-build-a-hedge-f",
+        "title": "How to Use Graph Engineering to Build a Multi-Factor Alpha Model I am going to break down exactly how to build a hedge fund grade multi-factor alpha model using graph engineering.",
+        "summary": "Let's get straight to it. Bookmark This - I'm Roan, a backend developer working on... 187",
+        "category": "工作流",
+        "article_url": "https://x.com/RohOnChain/status/2080296261576687751",
+        "article_published_at": "2026-07-23T16:59:17.000Z"
+      },
+      {
+        "article_id": "horizon_trade_x::how-quants-use-graph-engineering-to-protect-alpha-full-framework-you-built-the-loop-generate-test-score-refine-repeat",
+        "title": "How Quants Use Graph Engineering to Protect Alpha (Full Framework) You built the loop: generate, test, score, refine, repeat.",
+        "summary": "The metric climbed for months. Then live trading torched it, with every dashboard light still green. The answer is graph",
+        "category": "工作流",
+        "article_url": "https://x.com/horizon_trade_x/status/2080315187991654703",
+        "article_published_at": "2026-07-23T00:00:00+08:00"
+      },
+      {
+        "article_id": "jainarvind::enterprise-ai-economics-is-an-architecture-problem-the-price-of-a-token-keeps-falling-and-enterprise-ai-bills-keep-risin",
+        "title": "Enterprise AI economics is an architecture problem The price of a token keeps falling, and enterprise AI bills keep rising.",
+        "summary": "A single request now fans out into retrieval, tool calls, reasoning loops, and multi-step execution, so the number of to",
+        "category": "工作流",
+        "article_url": "https://x.com/jainarvind/status/2079695206350454950",
+        "article_published_at": "2026-07-22T00:00:00+08:00"
+      },
+      {
+        "article_id": "av1dlive::how-to-build-a-company-os-using-kimi-k3-builder-s-guide",
+        "title": "How to Build a Company OS using Kimi K3 (Builder's Guide)",
+        "summary": "This is a complete A–Z breakdown of Kimi K3 what it is and how to run your entire business using only AI Agents This wil",
+        "category": "工作流",
+        "article_url": "https://x.com/Av1dlive/status/2079607748396994789",
+        "article_published_at": "2026-07-22T00:00:00+08:00"
+      },
+      {
+        "article_id": "0xricker::7-kimi-k3-features-that-make-every-other-model-feel-outdated-the-world-s-largest-open-model-just-shipped",
+        "title": "7 Kimi K3 Features That Make Every Other Model Feel Outdated The world's largest open model just shipped.",
+        "summary": "It codes at Fable 5 level, costs 5x less, and burns a fraction of the tokens doing it. Here are the seven things that st",
+        "category": "工作流",
+        "article_url": "https://x.com/0xRicker/status/2079910285767278877",
+        "article_published_at": "2026-07-22T00:00:00+08:00"
+      },
+      {
+        "article_id": "addyosmani::software-factories-light-and-dark-a-software-factory-is-harnessed-loops-at-scale",
+        "title": "Software Factories, Light and Dark A software factory is harnessed loops at scale.",
+        "summary": "You can run the loop with humans in it (light factory): trading judgment and concentration against speed and breakage. O",
+        "category": "工作流",
+        "article_url": "https://x.com/addyosmani/status/2079442194449232227",
+        "article_published_at": "2026-07-21T05:53:36.000Z"
+      },
+      {
+        "article_id": "kzouapt::we-stayed-quiet-and-built-the-fastest-search-on-earth-search-was-built-for-humans",
+        "title": "We stayed quiet and built the FASTEST search on Earth Search was built for humans.",
+        "summary": "You type one query, scan the results, refine, and try again. Thirty years of infrastructure is designed around that loop",
+        "category": "工作流",
+        "article_url": "https://x.com/KZouAPT/status/2079569508549673409",
+        "article_published_at": "2026-07-21T00:00:00+08:00"
+      },
+      {
+        "article_id": "0xrafy::graph-engineering-with-claude-the-11-step-roadmap-from-loops-to-graph-architect",
+        "title": "Graph Engineering with Claude: the 11-Step Roadmap From Loops to Graph Architect",
+        "summary": "Most people who try to build an AI agent end up with a single while-loop calling Claude with a growing prompt until it h",
+        "category": "工作流",
+        "article_url": "https://x.com/0xRafy/status/2079542513317118268",
+        "article_published_at": "2026-07-21T00:00:00+08:00"
+      },
+      {
+        "article_id": "0xcodez::graph-engineering-with-claude-14-step-roadmap-from-0-to-graph-architect-full-course",
+        "title": "Graph Engineering with Claude: 14-Step roadmap from 0 to graph architect (Full Course)",
+        "summary": "Most people who try to build a multi-step agent end up with a straight line. Step one, step two, step three - each waiti",
+        "category": "工作流",
+        "article_url": "https://x.com/0xCodez/status/2079165300625330317",
+        "article_published_at": "2026-07-20T00:00:00+08:00"
+      },
+      {
+        "article_id": "0xcodard::the-math-behind-every-great-prompt-a-complete-guide-to-prompt-engineering-in-2026-i-am-going-to-break-down-exactly-how-p",
+        "title": "The Math Behind Every Great Prompt: A Complete Guide to Prompt Engineering in 2026 I am going to break down exactly how prompting actually works and how to master it in 2026.",
+        "summary": "Let's get straight to it. I have written prompts across three production systems this year. Two of them run...",
+        "category": "工作流",
+        "article_url": "https://x.com/0xcodard/status/2079201569485250810",
+        "article_published_at": "2026-07-20T00:00:00+08:00"
+      },
+      {
+        "article_id": "0xcodard::how-to-build-a-full-llm-from-scratch-break-into-anthropic-i-am-going-to-break-down-exactly-how-to-build-a-full-llm-from-",
+        "title": "How to Build a Full LLM From Scratch & Break Into Anthropic I am going to break down exactly how to build a full LLM from scratch and turn that build into a frontier lab offer.",
+        "summary": "Let's get straight to it. I have interviewed at three frontier labs in the last...",
+        "category": "工作流",
+        "article_url": "https://x.com/0xcodard/status/2078481155033346476",
+        "article_published_at": "2026-07-18T00:00:00+08:00"
+      },
+      {
+        "article_id": "boazbaraktcs::all-watched-over-i-ve-recently-been-rereading-steven-levy-s-hackers-with-my-daughter",
+        "title": "All Watched Over I’ve recently been rereading Steven Levy’s “Hackers” with my daughter.",
+        "summary": "Levy describes how Brautigan’s 1967 poem “All watched over by machines of loving grace” was inspiring to the California.",
+        "category": "工作流",
+        "article_url": "https://x.com/boazbaraktcs/status/2077791008654340168",
+        "article_published_at": "2026-07-17T00:00:00+08:00"
+      },
+      {
+        "article_id": "0xrafy::how-to-build-first-ai-agent-with-claude-from-first-api-call-to-autonomous-system-90-of-code-at-anthropic-is-written-by-c",
+        "title": "How to build First AI agent with Claude: from first API call to autonomous system 90% of code at Anthropic is written by Claude agents.",
+        "summary": "Not by engineers typing in a chat window. By autonomous agents running loops, calling tools, and shipping code while the",
+        "category": "工作流",
+        "article_url": "https://x.com/0xRafy/status/2078106850235408854",
+        "article_published_at": "2026-07-17T00:00:00+08:00"
+      },
+      {
+        "article_id": "designarena::how-openai-s-sol-finally-learned-design-taste",
+        "title": "How OpenAI’s Sol Finally Learned Design Taste",
+        "summary": "We benchmarked GPT-5.6 Sol on Design Arena’s Web Design (Non-Agentic) Arena, and we were surprised to find that it ranks",
+        "category": "工作流",
+        "article_url": "https://x.com/DesignArena/status/2077432249033830706",
+        "article_published_at": "2026-07-16T00:00:00+08:00"
+      },
+      {
+        "article_id": "addyosmani::earning-judgment-taste-used-to-be-a-byproduct-of-the-reps",
+        "title": "Earning Judgment Taste used to be a byproduct of the reps.",
+        "summary": "Agents took the reps. So if you're junior you now have to go get the taste (and judgment) on purpose. As I was building ",
+        "category": "工作流",
+        "article_url": "https://x.com/addyosmani/status/2077600055159357548",
+        "article_published_at": "2026-07-16T00:00:00+08:00"
+      },
+      {
+        "article_id": "0xcodard::how-to-build-a-company-run-entirely-by-ai-agents-using-loop-engineering-i-am-going-to-break-down-exactly-how-i-built-3-c",
+        "title": "How to Build a Company Run Entirely by AI Agents Using Loop Engineering I am going to break down exactly how I built 3 companies that runs itself with loop engineering.",
+        "summary": "Let's get straight to it. I am currently running three companies on this exact blueprint. Two of them...",
+        "category": "工作流",
+        "article_url": "https://x.com/0xcodard/status/2077737792210358474",
+        "article_published_at": "2026-07-16T00:00:00+08:00"
+      },
+      {
+        "article_id": "handotdev::remember-to-not-smile-last-month-i-stood-in-front-of-the-entire-company-with-a-slide-that-had-nothing-on-it-but-four-wor",
+        "title": "Remember to not smile Last month, I stood in front of the entire company with a slide that had nothing on it but four words: \"Remember to not smile.\" The reacti...",
+        "summary": "ons were about what you'd expect. Confused looks. A few...",
+        "category": "工作流",
+        "article_url": "https://x.com/handotdev/status/2077075378859020690",
+        "article_published_at": "2026-07-15T00:00:00+08:00"
+      },
+      {
+        "article_id": "0xrafy::how-to-become-an-ai-engineer-in-2026-the-claude-first-roadmap-that-actually-works-ai-engineers-at-top-companies-are-pull",
+        "title": "How to become an AI Engineer in 2026: the Claude-first roadmap that actually works AI engineers at top companies are pulling $250K-$450K in 2026.",
+        "summary": "Most of them cannot train a model from scratch. They learned one thing instead. And that one thing runs on Claude. Follo",
+        "category": "工作流",
+        "article_url": "https://x.com/0xRafy/status/2077370335452672284",
+        "article_published_at": "2026-07-15T00:00:00+08:00"
+      },
+      {
+        "article_id": "demishassabis::a-framework-for-frontier-ai-and-the-dawning-of-a-new-age",
+        "title": "A Framework for Frontier AI and the Dawning of a New Age",
+        "summary": "This is a pivotal moment in human history. Artificial General Intelligence (AGI), a system that exhibits all the cogniti",
+        "category": "工作流",
+        "article_url": "https://x.com/demishassabis/status/2076957440109625718",
+        "article_published_at": "2026-07-14T00:00:00+08:00"
+      },
+      {
+        "article_id": "av1dlive::ai-agent-stack-everyone-must-use-with-gpt-5-6-fable-5-builder-s-guide-fable-5-gpt-5-6-the-a-z-build-of-an-agent-stack-th",
+        "title": "AI Agent Stack everyone must use with GPT 5.6 + Fable 5 (Builder's Guide) Fable 5 + GPT-5.6: The A - Z Build of an Agent Stack That Ships While You Sleep",
+        "summary": "This is the complete build, in order, with a checkpoint after every piece. Bookmark these 12 builds before you forget...",
+        "category": "工作流",
+        "article_url": "https://x.com/Av1dlive/status/2076705482904101136",
+        "article_published_at": "2026-07-14T00:00:00+08:00"
+      },
+      {
+        "article_id": "deronin_::start-a-1-person-business-with-claude-full-course-i-run-a-40k-mrr-agency-with-zero-employees-no-developers",
+        "title": "Start a 1-Person Business with Claude (FULL COURSE) I run a $40k MRR agency with zero employees No developers.",
+        "summary": "No sales team. No ops manager. No agency partners taking 30% Just Claude Code, a folder of skills organised like a real ",
+        "category": "工作流",
+        "article_url": "https://x.com/DeRonin_/status/2076690611399176506",
+        "article_published_at": "2026-07-13T00:00:00+08:00"
+      },
+      {
+        "article_id": "0xcarnagee::context-rot-the-study-that-proves-your-million-token-context-window-is-lying-to-you",
+        "title": "Context rot: the study that proves your million-token context window is lying to you",
+        "summary": "Most developers treat the context window like a bucket. paste more, get more, fill the million tokens and the model reas",
+        "category": "工作流",
+        "article_url": "https://x.com/0xCarnagee/status/2076269316912095422",
+        "article_published_at": "2026-07-12T00:00:00+08:00"
+      },
+      {
+        "article_id": "zodchiii::how-to-run-a-quant-desk-with-four-ai-agents-and-zero-people-you-keep-trading-by-hand-getting-chopped-up-and-telling-your",
+        "title": "How to run a quant desk with four AI agents and zero people You keep trading by hand, getting chopped up, and telling yourself you'll build a bot one day. Then you remember you can't code.",
+        "summary": "This is how I built one anyway: the research, the rules in plain...",
+        "category": "工作流",
+        "article_url": "https://x.com/zodchiii/status/2075874969930662160",
+        "article_published_at": "2026-07-11T00:00:00+08:00"
+      },
+      {
+        "article_id": "horizon_trade_x::how-quants-build-trading-agents-that-improve-themselves-full-framework-in-2025-an-ai-broke-a-56-year-old-math-record-wit",
+        "title": "How Quants Build Trading Agents That Improve Themselves (Full Framework) In 2025, an AI broke a 56-year-old math record with one loop: generate, test, score, repeat. Quants run it on strategies.",
+        "summary": "Let's get straight to it.... Bookmark this We are the team behind Horizon, the...",
+        "category": "工作流",
+        "article_url": "https://x.com/horizon_trade_x/status/2075649358171664667",
+        "article_published_at": "2026-07-11T00:00:00+08:00"
+      },
+      {
+        "article_id": "0xclodex::how-to-become-an-ai-engineer-in-2026-without-a-cs-degree-the-highest-paid-building-role-in-tech-right-now-doesn-t-care-w",
+        "title": "How to become an AI Engineer in 2026 - without a CS degree The highest-paid building role in tech right now doesn't care what your diploma says. It cares what you've shipped. Here's the exact 12-month path.",
+        "summary": "Most people think you need a computer science...",
+        "category": "工作流",
+        "article_url": "https://x.com/0xClodex/status/2075506936502440198",
+        "article_published_at": "2026-07-10T00:00:00+08:00"
+      },
+      {
+        "article_id": "rohonchain::how-to-build-a-swarm-of-ai-agents-that-hunts-alpha-24-7",
+        "title": "How to Build a Swarm of AI Agents That Hunts Alpha 24/7",
+        "summary": "I will break down how to build the swarm of AI agents that replaces an entire quant research team. Let's get straight to",
+        "category": "工作流",
+        "article_url": "https://x.com/RohOnChain/status/2074134246784921977",
+        "article_published_at": "2026-07-06T00:00:00+08:00"
+      },
+      {
+        "article_id": "gabefletcher::peter-just-torched-the-openai-owns-openclaw-conspiracy-on-clawcast-can",
+        "title": "Peter Just Torched the “OpenAI Owns OpenClaw” Conspiracy on Clawcast… Can",
+        "summary": "We Finally Cut the BS I sat down with my Monster this morning and put on the @openclaw Clawcast Episode 2 with @hrudolph",
+        "category": "工作流",
+        "article_url": "https://x.com/gabefletcher/status/2073112574330024001",
+        "article_published_at": "2026-07-04T00:00:00+08:00"
+      },
+      {
+        "article_id": "rohonchain::how-to-use-loop-engineering-to-build-a-self-improving-quant-trading-system",
+        "title": "How To Use Loop Engineering To Build A Self-Improving Quant Trading System",
+        "summary": "I will break down exactly how to build the loops that run an entire quant trading system on their own. Let's get straigh",
+        "category": "工作流",
+        "article_url": "https://x.com/RohOnChain/status/2069056530960490835",
+        "article_published_at": "2026-06-22T00:00:00+08:00"
+      },
+      {
+        "article_id": "anatolikopadze::loops-explained-claude-gpt-mira-and-what-actually-works-ai-has-been-in-everyone-s-hands-for-years",
+        "title": "Loops explained: Claude, GPT, Mira and what actually works AI has been in everyone's hands for years.",
+        "summary": "Most people who use it every day still use it the slowest way there is: type a request, wait, fix it, ask again, all by ",
+        "category": "工作流",
+        "article_url": "https://x.com/AnatoliKopadze/status/2068328135611822149",
+        "article_published_at": "2026-06-20T00:00:00+08:00"
+      },
+      {
+        "article_id": "0xmovez::the-self-improving-loop-a-300-agent-swarm-on-kimi-k2-6-verified-by-opus-4-8-a-free-open-source-model-is-running-300-para",
+        "title": "The Self-Improving Loop: a 300-agent swarm on Kimi K2.6, verified by Opus 4.8 A free open-source model is running 300 parallel agents across 4,000 coordinated steps from a single prompt, and it scores higher on real research tasks than models you pay 5x more for.",
+        "summary": "Most people...",
+        "category": "工作流",
+        "article_url": "https://x.com/0xMovez/status/2067291911468044494",
+        "article_published_at": "2026-06-18T00:00:00+08:00"
+      },
+      {
+        "article_id": "0xcodez::build-self-improving-agent-system-with-fable-5-in-14-steps-loops-dynamic-workflows-routines",
+        "title": "Build self-improving agent system with Fable 5 in 14 steps : loops, dynamic workflows, routines",
+        "summary": "Most people are using Claude Fable 5 like Sonnet 4.6 with a bigger context window. They prompt it. It works for 5 minute",
+        "category": "工作流",
+        "article_url": "https://x.com/0xCodez/status/2065089060104720776",
+        "article_published_at": "2026-06-11T00:00:00+08:00"
+      },
+      {
+        "article_id": "0xcodez::loop-engineering-the-14-step-roadmap-from-prompter-to-loop-designer",
+        "title": "Loop engineering: the 14-step roadmap from prompter to loop designer.",
+        "summary": "Most developers still prompt their coding agents by hand. They type, they wait, they read the diff, they type again. 9ou",
+        "category": "工作流",
+        "article_url": "https://x.com/0xCodez/status/2064374643729773029",
+        "article_published_at": "2026-06-09T00:00:00+08:00"
+      },
+      {
+        "article_id": "anatolikopadze::ai-agents",
+        "title": "AI Agents.",
+        "summary": "What they are and how to Build Your Own Step by Step. Everyone is talking about AI agents. But if you ask most people wh",
+        "category": "工作流",
+        "article_url": "https://x.com/AnatoliKopadze/status/2063985608381362576",
+        "article_published_at": "2026-06-08T00:00:00+08:00"
+      },
+      {
+        "article_id": "0xcodez::how-to-run-claude-on-autopilot-in-14-steps-loop-routines-and-the-full-automation-stack",
+        "title": "How to run Claude on autopilot in 14 steps: /loop, Routines, and the full automation stack.",
+        "summary": "You’re paying $20–$200/month for Claude and using it like a paid version of ChatGPT. 9 out of 10 users have never set up",
+        "category": "工作流",
+        "article_url": "https://x.com/0xCodez/status/2062926176117469477",
+        "article_published_at": "2026-06-05T00:00:00+08:00"
+      },
+      {
+        "article_id": "0xcodez::how-to-build-a-team-of-ai-agents-9-stages-from-first-agent-to-production-crew",
+        "title": "How to build a team of AI agents: 9 stages from first agent to production crew.",
+        "summary": "Most people who try to build a “team of AI agents” end up with one agent talking to itself in five tabs. 9out of 10 mult",
+        "category": "工作流",
+        "article_url": "https://x.com/0xCodez/status/2061107447482237324",
+        "article_published_at": "2026-05-31T00:00:00+08:00"
+      },
+      {
+        "article_id": "0xcodez::how-to-build-your-own-llm-from-scratch-in-5-stages-exact-pipeline-behind-gpt-and-claude-i-pulled-apart-how-large-languag",
+        "title": "How to build your own LLM from scratch in 5 Stages: exact pipeline behind GPT and Claude I pulled apart how large language models are actually built - the entire pipeline behind ChatGPT, Claude, and Gemini - and compressed it into one map.",
+        "summary": "Bookmark this. Save it. By the end you will...",
+        "category": "工作流",
+        "article_url": "https://x.com/0xCodez/status/2058911661973454915",
+        "article_published_at": "2026-05-25T00:00:00+08:00"
+      },
+      {
+        "article_id": "anatolikopadze::claude-can-do-all-of-this",
+        "title": "Claude Can Do All of This.",
+        "summary": "Most People Have No Idea. Claude can do a lot more than most people think. This guide covers all of it - where to find e",
+        "category": "工作流",
+        "article_url": "https://x.com/AnatoliKopadze/status/2057813254617858078",
+        "article_published_at": "2026-05-22T00:00:00+08:00"
+      },
+      {
+        "article_id": "0xcodez::how-to-write-a-prompt-the-right-way-the-4-layer-structure-pros-use-i-went-through-anthropic-s-official-prompt-engineerin",
+        "title": "How to write a prompt the right way: the 4-layer structure pros use I went through Anthropic's official prompt engineering docs, their internal courses, and a t...",
+        "summary": "alk by one of their applied AI engineers on how the Claude team actually debugs prompts in production....",
+        "category": "工作流",
+        "article_url": "https://x.com/0xCodez/status/2057807200173613450",
+        "article_published_at": "2026-05-22T00:00:00+08:00"
+      },
+      {
+        "article_id": "anatolikopadze::how-to-actually-use-claude-18-steps-that-unlock-100-of-its-potential-claude-has-been-out-for-two-years",
+        "title": "How to Actually Use Claude. 18 steps that unlock 100% of its potential Claude has been out for two years.",
+        "summary": "Most people who use it every day are still using 10% of what it can do. Not because it's complicated. Because nobody sho",
+        "category": "工作流",
+        "article_url": "https://x.com/AnatoliKopadze/status/2054568935274549597",
+        "article_published_at": "2026-05-13T00:00:00+08:00"
+      }
+    ]
+  },
+  "raw_post_count": 71
+}
